@@ -1,2 +1,17 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Dart Week 3 – OOP Assignment 🚀
+
+This project demonstrates the core principles of **Object-Oriented Programming (OOP)** in Dart, as part of the Week 3 assignment.
+
+---
+
+## 🧠 Topics Covered
+
+- ✅ **Encapsulation**  
+- ✅ **Inheritance**  
+- ✅ **Polymorphism**  
+- ✅ **Abstraction**
+
+---
+
+## 📁 Project Structure
+
